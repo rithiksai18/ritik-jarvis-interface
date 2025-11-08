@@ -46,7 +46,7 @@ export default function JarvisConsole() {
         block: "end",
       });
     }
-  }, [messages]);
+}, [messages.length]);
 
   useEffect(() => {
     if (messages.length === 0) {
