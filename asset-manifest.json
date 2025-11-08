@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ritik-jarvis-interface/static/css/main.4d409a2c.css",
+    "main.js": "/ritik-jarvis-interface/static/js/main.2a1555bf.js",
+    "index.html": "/ritik-jarvis-interface/index.html",
+    "main.4d409a2c.css.map": "/ritik-jarvis-interface/static/css/main.4d409a2c.css.map",
+    "main.2a1555bf.js.map": "/ritik-jarvis-interface/static/js/main.2a1555bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d409a2c.css",
+    "static/js/main.2a1555bf.js"
+  ]
+}
