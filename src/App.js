@@ -13,8 +13,16 @@ import Contact from "./components/Contact";
   Simple router. Navigation will be triggered from JarvisConsole using
   window.location.href so we avoid context timing issues inside async callbacks.
 */
+function App() {
+  return (
+    <div className="App">
+      <YourMainComponent />
+    </div>
+  );
+}
 
-export default function App() {
+export default App;
+ {
   return (
     <Router>
       <Routes>
